@@ -7,8 +7,7 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "nodemon --exec vite",
-    "start": "nodemon server.js",
+    "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
