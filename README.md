@@ -1,4 +1,4 @@
-# 🚀 Aryan Mittal — Full-Stack Portfolio
+# 🚀 Ketan Kumar — Full-Stack Portfolio
 
 A high-performance, minimalist, and engineering-focused portfolio designed for the modern web. Built with the **MERN Stack** and **Vite**, this project showcases a personal brand with a "hacker/terminal" aesthetic and custom-architected UI components.
 
