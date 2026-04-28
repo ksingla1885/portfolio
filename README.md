@@ -1,4 +1,4 @@
-# 🚀 Aryan Mittal — Full-Stack Portfolio
+# 🚀 Ketan Kumar — Full-Stack Portfolio
 
 A high-performance, minimalist, and engineering-focused portfolio designed for the modern web. Built with the **MERN Stack** and **Vite**, this project showcases a personal brand with a "hacker/terminal" aesthetic and custom-architected UI components.
 
@@ -23,7 +23,7 @@ A high-performance, minimalist, and engineering-focused portfolio designed for t
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/heyaryanmittal/Portfolio.git
+    git clone https://github.com/ksingla1885/Portfolio.git
     cd Portfolio
     ```
 
@@ -51,9 +51,9 @@ A high-performance, minimalist, and engineering-focused portfolio designed for t
 
 ## 💼 Let's Connect
 
-- **LinkedIn**: [heyaryanmittal](https://www.linkedin.com/in/heyaryanmittal)
-- **GitHub**: [heyaryanmittal](https://github.com/heyaryanmittal)
-- **Email**: heyaryanmittal@gmail.com
+- **LinkedIn**: [ketan-kumar-1885](www.linkedin.com/in/ketan-kumar1885)
+- **GitHub**: [ksingla1885](https://github.com/ksingla1885)
+- **Email**: ketansingla7988@gmail.com
 
 ---
-© 2026 Aryan Mittal · Built with ♥ and clean code.
+© 2026 Ketan Kumar · Built with ♥ and clean code.
